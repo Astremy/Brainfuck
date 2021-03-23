@@ -1,5 +1,5 @@
 Entrée : 5 chiffres
-Les deux premiers chiffres désigne le nominateur, les deux suivants le dénominateur
+Les deux premiers chiffres désigne le nominateur les deux suivants le dénominateur
 et le dernier la précision (9 = 9 décimales de précision mettre / pour la précision maximale de 255)
 
 +>>+>>+>>+[<<]>>[,>++++++[-<-------->]+>]<[<<]>>[<[->>++++++++++<<]>>>>>]>+<<<[-<<]>,>++++++[-<-------->]<[->>>>>>[[-<+<+>>]<[->+<]<[<<-[>]>[->]>>>[>>>]<<<<]>>[>>>>[>>]<+<[<<]]<<]<-[>>>>>>[>>]+[<<]<<[-<+<<+>>>]<[->+<]<[-<->]<[-<++++++++++>]]<<<]>+>[>>]<[->>>>>>>>[>>]+<+<[<<]<<<<<]>>>>>>>+++++++[->++++++>+++++<<]>.>+++.>>[+++++[-<++++++++>]<.>>>]
